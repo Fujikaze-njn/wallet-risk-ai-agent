@@ -1,0 +1,15 @@
+{
+  "name": "wallet-risk-ai-agent",
+  "version": "1.0.0",
+  "description": "AI agent that analyzes Ethereum wallet activity and generates risk reports.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.4.0",
+    "openai": "^4.0.0"
+  }
+  }
